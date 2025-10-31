@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - An Unreal Engine game as a side hustle - because you can still follow your passion.
 - 🎮 My hobbies: I love video games, especially FPS and achievement hunter in story-telling singleplayer games, and i'm a coffee enthusiast.
 ---
-### Programming Languages
+### 💬Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> <strong>C++</strong>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 3D Softwares & API
+### ✍3D Softwares & API
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30"/> <strong>Blender</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30"/> <strong>3DS Max</strong>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Frontend & Frameworks
+### 👁Frontend & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> <strong>HTML5</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> <strong>CSS3</strong>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Backend & API
+### 🚪Backend & API
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <strong>Node.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> <strong>Go</strong>
