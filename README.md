@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   - Integrate 3D assets into game engines.
   - Develop DCC Tools in **3DS Max** and **Maya** using Python, MaxScript
   - Tech support
-- 🧑‍💻 I'm currently learning **game development** as a hobby and **cyber-security** for a professional military career path. I'm also building:
+- 🧑‍💻 I'm currently learning **game development** as a hobby and **cyber-security** while improving my skills in **software development**. I'm also building:
   - Task tracker with virtual assistant - can suggest what to do with your current task.
   - An Unreal Engine game as a side hustle - because you can still follow your passion.
-- 🎮 My hobbies: I love video games, especially FPS and achievement hunter in story-telling singleplayer games, and i'm a coffee enthusiast.
+- 🎮 My hobbies: I love video games, especially FPS and achievement hunter in story-telling singleplayer games, and i'm a coffee enthusiast as a good cup coffee keeps the bugs away.
 ---
 ### 💬Programming Languages
 <p align="left">
