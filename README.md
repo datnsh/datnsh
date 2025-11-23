@@ -55,20 +55,13 @@ Here are some ideas to get you started:
 
 ---
 
-### Frameworks
+### Frameworks & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> <strong>HTML5</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> <strong>CSS3</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <strong>React</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="30"/> <strong>Qt</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <strong>Node.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-### API
-<p align="left">
-  
   <img src="https://cdn.simpleicons.org/opengl/5586A4" width="30"/> <strong>OpenGL</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=microsoft&logoColor=white" width="60" height="40"/><strong>DirectX</strong>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
