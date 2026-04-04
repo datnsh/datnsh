@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 
 ### 🗄️ Databases & ORM
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> <strong>Microsoft SQL Server</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="30"/><strong>SQLite</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30"/> <strong>Microsoft SQL Server</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="30"/><strong>SQLite</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> <strong>MongoDB</strong>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
