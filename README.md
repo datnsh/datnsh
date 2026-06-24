@@ -28,9 +28,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> <strong>C++</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/> <strong>C#</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> <strong>Java</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> <strong>Go</strong>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -39,7 +36,6 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="30"/> <strong>Unreal Engine</strong>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30"/><strong>Unity</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  👀<strong>An Undisclosed Game Engine</strong>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
